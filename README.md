@@ -18,6 +18,14 @@ Lightning-fast directory navigation for your shell. Stop typing long paths. Just
 - [fd](https://github.com/sharkdp/fd) - A simple, fast alternative to 'find'
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 
+### :warning: Notes
+
+- **Experimental Status**: Warp is currently in an experimental stage and stuff may change in future releases.
+- **Platform Testing**: Currently only tested on macOS. While it should work on Linux and other Unix-like systems, your experience may vary.
+- **Feedback Welcome**: As an early-stage tool, your feedback and bug reports are extremely valuable! Please open issues on GitHub.
+
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/IImpaq/warp/issues/new) on GitHub.
+
 ### :package: Installation
 
 **Manual Installation**
