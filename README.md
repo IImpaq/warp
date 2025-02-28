@@ -2,6 +2,10 @@
 
 Lightning-fast directory navigation for your shell. Stop typing long paths. Just warp there.
 
+<p align="center">
+  <img src="assets/demo.gif" alt="Warp in action" width="700" style="border-radius:5px;box-shadow:0 5px 15px rgba(0,0,0,0.3);">
+</p>
+
 ## :sparkles: Key Features
 
 - **Interactive Mode** - Browse directories with fuzzy search
