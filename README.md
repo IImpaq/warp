@@ -48,7 +48,7 @@ cd path/to/warp
 
 # Or download and run directly
 curl -s https://raw.githubusercontent.com/IImpaq/warp/main/uninstall.sh | bash
-
+```
 
 ## :gear: Usage
 
