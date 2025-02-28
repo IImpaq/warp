@@ -3,7 +3,9 @@
 Lightning-fast directory navigation for your shell. Stop typing long paths. Just warp there.
 
 <p align="center">
-  <img src="assets/hero.gif" alt="Warp in action" width="80%" border="0" borderRadius="8px">
+  <div style="border-radius: 8px; overflow: hidden; display: inline-block;">
+    <img src="assets/hero.gif" alt="Warp in action" width="80%">
+  </div>
 </p>
 
 ## :sparkles: Key Features
