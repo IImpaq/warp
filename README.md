@@ -28,7 +28,7 @@ git clone https://github.com/IImpaq/warp.git
 cd warp
 
 # Add to your .zshrc
-echo "source $(pwd)/warp.plugin.zsh" >> ~/.zshrc
+./install.sh
 ```
 
 **Using a Plugin Manager**
@@ -36,6 +36,19 @@ echo "source $(pwd)/warp.plugin.zsh" >> ~/.zshrc
 ```bash
 # Coming soon
 ```
+
+## :wastebasket: Uninstallation
+
+If you need to remove warp, you can use the provided uninstall script:
+
+```bash
+# If you cloned the repository
+cd path/to/warp
+./uninstall.sh
+
+# Or download and run directly
+curl -s https://raw.githubusercontent.com/IImpaq/warp/main/uninstall.sh | bash
+
 
 ## :gear: Usage
 
@@ -72,6 +85,9 @@ export WARP_COMMAND="jd"
 
 # Additional options for fd
 export WARP_FD_OPTS="--type d --hidden --exclude node_modules"
+
+# Additional options for fd
+export WARP_QUIET=true
 ```
 
 ## :art: Examples
