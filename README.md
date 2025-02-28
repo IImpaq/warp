@@ -110,3 +110,9 @@ MIT License - See [LICENSE](LICENSE) for details
 ## :heart: Contributing
 
 Contributions welcome! Feel free to open issues or submit pull requests.
+
+## :telephone: Contact
+If you have any questions or want to get in touch, just [send an email](mailto:iimpaq@proton.me)
+
+---
+Made with :heart: by [Marcus](https://www.gugacs.me/)
